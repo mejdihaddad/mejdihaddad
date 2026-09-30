@@ -54,7 +54,7 @@ Computer engineering graduate (ESPRIM, 2024, data science option) and freelance 
 
 ## Featured projects
 
-**[AI Engineering Lab](https://github.com/mejdihaddad/ai-engineering-lab)** *(in progress)*<br>
+**[AI Engineering Lab](https://github.com/mejdihaddad/ai-engineering-lab)**<br>
 Agentic RAG assistant: LangGraph tool routing over Gemini, hybrid Qdrant retrieval (dense + sparse with reciprocal-rank fusion), MCP integrations, streamed responses, PostgreSQL checkpoints, RAGAS evaluation and LangSmith tracing.<br>
 `FastAPI` `LangGraph` `Gemini` `Qdrant` `PostgreSQL` `React`
 
@@ -62,7 +62,7 @@ Agentic RAG assistant: LangGraph tool routing over Gemini, hybrid Qdrant retriev
 Triage prototype for NYC 311 heat and hot-water cases: a slow-resolution risk model validated on a chronological split with leakage masked (ROC-AUC 0.614 on one cohort), plus similar-case retrieval.<br>
 `scikit-learn` `FastAPI` `LangGraph` `Qdrant` `Docker`
 
-**[MegaCor Conversational AI Platform](https://github.com/mejdihaddad/StagePFE)**<br>
+**[Conversational AI Platform](https://github.com/mejdihaddad/StagePFE)**<br>
 Final-year project: a dialogue builder for intents, patterns and responses, and a chatbot that matches messages with Sentence Transformer embeddings and falls back to Gemma 2 2B via Ollama. Includes PDF question answering, speech features, feedback and analytics.<br>
 `FastAPI` `MongoDB` `LangChain` `FAISS` `Ollama` `React`
 
